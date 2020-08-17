@@ -68,7 +68,7 @@
     justify-self: center;
   }
 }
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 390px) {
   .main nav {
     height: 10vh;
   }
